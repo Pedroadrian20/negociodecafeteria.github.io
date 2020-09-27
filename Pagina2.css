@@ -1,0 +1,32 @@
+.pantalla{
+    background-image: url("Imagenes/paisaje8.png");
+    background-size: cover;
+}
+
+#Titulo{
+    padding: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-style: solid;
+    border-color: sandybrown;
+    font-family: cursive;
+    background-image: url("Imagenes/paisaje9.png");
+    background-size: initial;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+}
+
+#Presentacion{
+    padding: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-style: solid;
+    border-color: sandybrown;
+    font-family: cursive;
+    background-image: url("Imagenes/paisaje9.png");
+    background-size: initial;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+}
